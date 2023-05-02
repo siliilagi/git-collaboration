@@ -1,0 +1,7 @@
+Aloha,
+
+I am a CS student here at BYUH. I enjoy programming for fun.
+
+My project idea is to make an app that serves as a chat-based mindfulness journal using OpenAI's chat completion API. The user can login to see their past journal entries or start a new one. Pictures can also be uploaded. Users can search past journal entries.
+
+Jared Schoeny
