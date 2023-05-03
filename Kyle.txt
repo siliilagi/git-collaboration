@@ -1,0 +1,3 @@
+My name is Kyle, from the Philippines. I hope to become a game developer.
+
+My project idea is to create a judging system. It will allow judges to put in the scores for each category and admin can generate results.
