@@ -1,0 +1,6 @@
+Aloha,
+My name is Y. 
+
+I'm taking CS490R and I love to learn more about Github.
+
+My project is a review application.
