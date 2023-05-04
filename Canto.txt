@@ -1,0 +1,7 @@
+Aloha,
+
+I am student of CS490R, taught by Professor Slade. This is my text file. You should create a file like it for your "Git Collaboration Assignment".
+
+My project idea is an web app that lets people collaborate to get tasks done. It will be similar to facebook marketplace except this one will be mainly
+to request and sell services in the community of Laie.
+Anel Canto
