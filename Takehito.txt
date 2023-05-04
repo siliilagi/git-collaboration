@@ -2,7 +2,7 @@ Aloha,
 
 Hi, I'm Take, a student majoring computer science here at BYUH.
 
-I am considering at this stage an application for book transfer services, 
-class information, or cafeteria reviews, but those ideas may change significantly.
+I am considering at this stage an application for book transfer services, class information, 
+or cafeteria reviews, but those ideas may change significantly.
 
 Takehito Matsuda
