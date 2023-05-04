@@ -1,0 +1,4 @@
+Aloha, my name is Taylor McKendrick and I am a junior at BYU-Hawaii.
+ My project idea right now is to create a ChatGPT interface for the Reading writing lab on campus.
+Mahalo,
+Taylor
